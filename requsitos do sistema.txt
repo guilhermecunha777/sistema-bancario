@@ -1,0 +1,17 @@
+SISTEMA BANCARI0
+------------------------------------------------------------
+PRECISA TER:
+
+deposito
+  qual valor foi depositado
+  nao pode depositar negativo
+
+saque
+  3 saques diarios
+  maximo de 500 reais
+  limite de sque ate a conta ter 0 reais
+
+extrato
+  vai precisar listar todas as operacoes(deposito e saque) e no final mostrar o saldo
+
+OBS: tera so 1 usuario
